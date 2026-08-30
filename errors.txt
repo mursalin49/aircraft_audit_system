@@ -1,0 +1,26 @@
+Analyzing cabin security search...
+
+  error - cabin_secuirity.dart:1592:20 - The argument type 'List<Map<String, String>>' can't be assigned to the parameter type 'List<CabinSecurityAreaResult>'.  - argument_type_not_assignable
+warning - cabin_secuirity.dart:2231:12 - The declaration '_areaCardIcon' isn't referenced. Try removing the declaration of '_areaCardIcon'. - unused_element
+warning - cabin_secuirity.dart:2267:10 - The declaration '_buildStatusButton' isn't referenced. Try removing the declaration of '_buildStatusButton'. - unused_element
+   info - CabinSecurityTrainingScreen.dart:1:1 - The file name 'CabinSecurityTrainingScreen.dart' isn't a lower_case_with_underscores identifier. Try changing the name to follow the lower_case_with_underscores style. - file_names
+   info - CabinSecurityTrainingScreen.dart:611:31 - Unnecessary use of multiple underscores. Try using '_'. - unnecessary_underscores
+   info - CabinSecurityTrainingScreen.dart:644:49 - Unnecessary use of multiple underscores. Try using '_'. - unnecessary_underscores
+   info - CabinSecurityTrainingScreen.dart:797:27 - Unnecessary use of multiple underscores. Try using '_'. - unnecessary_underscores
+   info - CabinSecurityTrainingScreen.dart:797:31 - Unnecessary use of multiple underscores. Try using '_'. - unnecessary_underscores
+   info - CabinSecurityTrainingScreen.dart:1600:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:342:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:348:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:351:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:353:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:355:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:394:25 - Angle brackets will be interpreted as HTML. Try using backticks around the content with angle brackets, or try replacing `<` with `&lt;` and `>` with `&gt;`. - unintended_html_in_doc_comment
+   info - cabin_secuirity.dart:886:29 - Unnecessary use of multiple underscores. Try using '_'. - unnecessary_underscores
+   info - cabin_secuirity.dart:886:33 - Unnecessary use of multiple underscores. Try using '_'. - unnecessary_underscores
+   info - cabin_secuirity.dart:1169:23 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:2236:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:2560:28 - Statements in a for should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:2568:28 - Statements in a for should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - cabin_secuirity.dart:2582:7 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+
+22 issues found.
